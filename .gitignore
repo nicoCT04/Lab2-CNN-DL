@@ -1,0 +1,13 @@
+# Entorno
+.venv/
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Datos descargados (MNIST se descarga en tiempo de ejecución)
+data/
+
+# Sistema
+.DS_Store
