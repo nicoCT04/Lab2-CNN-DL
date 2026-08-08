@@ -9,5 +9,8 @@ __pycache__/
 # Datos descargados (MNIST se descarga en tiempo de ejecución)
 data/
 
+# Caché de entrenamiento (pesos e históricos; se regeneran al ejecutar el notebook)
+reports/artifacts/
+
 # Sistema
 .DS_Store
